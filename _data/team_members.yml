@@ -1,232 +1,225 @@
-- name: Huiyu Zhou
-  photo: huiyuzhou.jpeg
-  info: Professor
-  url: https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou
+- name: 张文
+  photo: WenZhang.jpeg
+  info: 教授
+  url: https://const.jlu.edu.cn/info/1113/2914.htm
   group: 0
   
-- name: Long Chen
-  photo: lc.jpg
-  info: PhD Candidate
-  url: longchen
+- name: 李腾跃
+  photo: TengyueLi.jpeg
+  info: 博士后研究员
+  url: https://uvlrick.github.io/TengyueLi.github.io/
+  group: 0
+
+- name: 韩博
+  photo: BoHan.jpg
+  info: 助理工程师
+  url: hanbo
+  group: 0
+
+- name: 聂振邦
+  photo:ZhenbangNie.jpg
+  info: 博士研究生
+  url: niezhenbang 
   group: 1
 
-- name: Fang Chen
-  photo: bio-photo.jpg
-  info: PhD Candidate
-  url: fangchen
+- name: 陈俊淇
+  photo: JunqiChen.jpeg
+  info: 博士研究生
+  url: chenjunqi 
   group: 1
   
-- name: Honghu Du
-  photo: bio-photo.jpg
-  info: PhD Candidate
-  url: hongdu 
-  group: 1
-  
-- name: Feixiang Zhou
-  photo: fxz.jpg
-  info: PhD Candidate
-  url: feixiang
+- name: 王佳
+  photo: JiaWang.jpeg
+  info: 博士研究生
+  url: wangjia
   group: 1
 
-- name: Zhihua Liu
-  photo: zhihua.png
-  info: Graduate Teaching Assistant
-  url: https://zhihualiued.github.io/
+- name: 王硕男
+  photo: ShuonanWang.jpeg
+  info: 博士研究生
+  url: wangshuonan
   group: 1
 
-- name: Lei Tong
-  photo: leitong.jpg
-  info: Graduate Teaching Assistant
-  url: https://leitong02.github.io/
+- name: 尹韩
+  photo: HanYin.jpeg
+  info: 博士研究生
+  url: yinhan
   group: 1
   
-- name: Xinyu Yang
-  photo: bio-photo.jpg
-  info: co-supervised with Dr. Ng Leong
-  url: xinyu 
+- name: 李万堃
+  photo: WankunLi.jpeg
+  info: 博士研究生
+  url: liwankun 
   group: 1
   
-- name: Tengyue Li
-  photo: 666.jpg
-  info: Visiting PhD student (OUC)
-  url: tengyue
+  - name: 韩佳利
+  photo:JialiHan.jpg
+  info: 博士研究生
+  url: hanjiali
   group: 1
   
-- name: Yoav Alon
+- name: 孙琦
   photo: bio-photo.jpg
-  info: Grduate Teaching Assistant
-  url: 
+  info: 博士研究生
+  url: sunqi
   group: 1
   
-- name: Benjamin Cham
-  photo: bio-photo.jpg
-  info: co-supervised with Dr. Reza Zare
-  url: bencham
+- name: 赵潇涵
+  photo: XiaohanZhao.jpeg
+  info: 博士研究生
+  url: zhaoxiaohan
   group: 1
   
-- name: Shiyi Zhang
-  photo: bio-photo.jpg
-  info: 2nd supervisor, with Dr. Yimei Zhu
-  url: shiyi
-  group: 9
-
-- name: Zhenyang Li
-  photo: bio-photo.jpg
-  info: 2nd supervisor, with Prof. Lu Liu
-  url: zhenyang
+- name: 伟明
+  photo:MingWei.jpeg
+  info: 博士研究生
+  url: weiming
+  group: 1
+  
+- name: 刘庆
+    photo:QingLiu.jpg
+  info: 博士研究生
+  url: liuqing
+  group: 1
+  
+- name: 董文川
+  photo:WenchuanDong.jpg
+  info: 硕士研究生
+  url: dongwenchuan
   group: 9
   
-- name: LiJia Deng
-  photo: bio-photo.jpg
-  info: 2nd supervisor, with Prof. Eugene Zhang
-  url: 
+- name: 蓝升
+  photo: ShengLan.jpeg
+  info: 硕士研究生
+  url: lansheng
   group: 9
   
-- name: Thais Portilho
-  photo: bio-photo.jpg
-  info: 2nd supervisor, with Dr. Fer-Jan De Vries
-  url: 
+- name: 潘晓娟
+  photo:XiaojunPan.jpeg
+  info: 硕士研究生
+  url: panxiaojuan
   group: 9
   
-- name: Donovan Anderson
-  photo: bio-photo.jpg
-  info: 
-  url: 
+- name: 王尧尧
+  photo:YaoyaoWang.jpg
+  info: 硕士研究生
+  url: wangyaoyao
   group: 9
   
-- name: Suchismita Hoare
-  photo: bio-photo.jpg
-  info: 
-  url: 
-  group: 9
-  
-- name: Zicheng Nie
-  photo: bio-photo.jpg
-  info: 
-  url: 
+- name: 张涵
+  photo: HanZhang.jpeg
+  info: 硕士研究生
+  url: zhanghan
   group: 9
  
-- name: Jialin Lyu
-  photo: bio-photo.jpg
-  info: co-supervised with Prof. Eugene Zhang
-  url: jialin
-  group: 2
+- name: 吴丹阳
+  photo:DangyangWu.jpg
+  info: 硕士研究生
+  url: wudanyang
+  group: 9
       
-- name: Jacob Bretherick
-  photo: bio-photo.jpg
-  info: Research Assistant
-  url: 
-  group: 3
+- name: 赵子涵
+  photo: bio-photo.jpeg
+  info: 硕士研究生
+  url: zhaozihan
+  group: 9
 
-- name: Dr. Nebrase Elmrabit
+- name: 王振飞
+  photo: bio-photo.jpeg
+  info: 硕士研究生
+  url: wangzhenfei
+  group: 9
+  
+- name: 柴承星
   photo: bio-photo.jpg
-  info: Research Associate
+  info: 硕士研究生
+  url: chaichengxing
+  group: 9
+  
+- name: 陈晓雪
+  photo: bio-photo.jpg
+  info: 硕士毕业生
+  url: chenxiaoxue
+  group: 8
+  year: 09/2019-06/2022
+  current: 
+  
+  - name: 兰志广
+  photo: bio-photo.jpg
+  info: 硕士毕业生
   url: 
-  group: 3
+  group: 8
+  year: 09/2019-06/2022
+  current: 
+  
+  - name: 刘天玚
+  photo: bio-photo.jpg
+  info: 硕士毕业生
+  url: 
+  group: 8
+  year: 09/2019-06/2022
+  current: 
+  
+  - name: 陈怀玉
+  photo: bio-photo.jpg
+  info: 硕士毕业生
+  url: 
+  group: 8
+  year: 09/2019-06/2022
+  current: 
+  
+  - name: 杨光
+  photo: bio-photo.jpg
+  info: 硕士毕业生
+  url: 
+  group: 8
+  year: 09/2019-06/2022
+  current: 
+  
+  - name: 许扬
+  photo: bio-photo.jpg
+  info: 硕士毕业生
+  url: 
+  group: 8
+  year: 09/2019-06/2022
+  current: 
+  
+  - name: 成武
+  photo: bio-photo.jpg
+  info: 硕士毕业生
+  url: 
+  group: 8
+  year: 09/2019-06/2022
+  current: 
+  
+  - name: 赵云鹏
+  photo: bio-photo.jpg
+  info: 硕士毕业生
+  url: 
+  group: 8
+  year: 09/2019-06/2022
+  current: 
+  
+- name: 马文良
+  photo: bio-photo.jpg
+  info: 博士毕业生
+  url: 
+  group: 8
+  year: 09/2019-12/2022
+  current: 待补充
+  
+- name: 陈东辉
+  photo: bio-photo.jpg
+  info: 博士毕业生
+  url: 
+  group: 8
+  year: 09/2018-12/2021
+  current: 中国地震局
 
-- name: Dr. Yi Niu
+- name: 符锐
   photo: bio-photo.jpg
-  info: Academic visitor (Shandong Normal University)
-  url: 
-  group: 4
-  
-- name: Prof. Qin Qin
-  photo: bio-photo.jpg
-  info: Academic visitor (Three Gorges University of China)
-  url: 
-  group: 4
-
-- name: Dr. Yuxiao Yang
-  photo: bio-photo.jpg
-  info: Academic visitor (Nanjing University of Aeronautics and Astronautics)
-  url: 
-  group: 4
-  
-- name: Dr. Nan Xin
-  photo: bio-photo.jpg
-  info: Academic visitor (Xian University of Technology)
-  url: 
-  group: 4
-
-- name: Dr. Zheheng Jiang
-  photo: bio-photo.jpg
-  info: PhD student (co-supervised with Dr. Michael Hoffmann)
+  info: 博士毕业生
   url: 
   group: 8
-  year: 1/2018-10/2020
-  current: RA at Lancaster University
-  extlink: 
-  
-- name: Christodoulos Rafael Ktiskakis
-  photo: bio-photo.jpg
-  info: 2nd supervisor, with Prof. Rajeev Raman
-  url: 
-  group: 8
-  year: 2018-2020
-  current: 
-  extlink: 
-
-- name: Aite Zhao
-  photo: bio-photo.jpg
-  info: Visiting PhD student (OUC)
-  url: 
-  group: 8
-  year: 12/2018-12/2019
-  current: 
-
-- name: Dr. Weiye Xu
-  photo: bio-photo.jpg
-  info: Academic visitor (NJIT). Co-hosted with Prof. Reiko Heckel.
-  url: 
-  group: 8
-  year:  3/2019-2/2020
-  current: 
-  
-- name: Dr. Changkui Lyu
-  photo: bio-photo.jpg
-  info: Academic visitor (NUAA). Co-hosted with Prof. Reiko Heckel.
-  url: 
-  group: 8
-  year: 9/2018-9/2019
-  current: 
-  
-  
-- name: Dr. Juan Liao
-  photo: bio-photo.jpg
-  info: Academic visitor (AAU)
-  url: 
-  group: 8
-  year: 12/2019-12/2020
-  current: 
-  
-- name: Prof. Xin Wang
-  photo: bio-photo.jpg
-  info: Academic visitor (HHU)
-  url: 
-  group: 8
-  year: 9/2019-9/2020
-  current: 
-  
-- name: Prof. Yong Hu,
-  photo: bio-photo.jpg
-  info: Academic visitor (HKU).
-  url: 
-  group: 8
-  year: 5/2019
-  current: 
-  
-- name: Dr. Yiming Xu
-  photo: bio-photo.jpg
-  info: Academic visitor (NUAA)
-  url: 
-  group: 8
-  year: 8/2019-8/2020
-  current: 
-
-- name: Prof. Fengyin Li
-  photo: bio-photo.jpg
-  info: Academic visitor (QFNU)
-  url: 
-  group: 8
-  year: 9/2019-9/2020
-  current: 
+  year: 09/2019-06/2022
+  current: 吉林省水利水电勘察设计研究院
